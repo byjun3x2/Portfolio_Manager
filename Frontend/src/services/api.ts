@@ -16,7 +16,7 @@ const API_BASE_URL = '/api/projects';
 export const projectApi = {
     // 서버사이드에서 사용 (SSR/SSG)
     getAll: async (): Promise<Project[]> => {
-        const response = await fetch(`http://localhost:8080/api/projects`, {
+        const response = await fetch(`http://localhost:9999/api/projects`, {
             cache: 'no-store' // 항상 최신 데이터
         });
         if (!response.ok) throw new Error('Failed to fetch projects');
