@@ -88,10 +88,8 @@ desktop.ini
 
 
 Backend/.gitattributes
-Backend/
 Backend/gradle/wrapper/gradle-wrapper.properties
 
 Frontend/node_modules
 Frontend/.next/
 Frontend/.next/cache
-Frontend/.yarn
