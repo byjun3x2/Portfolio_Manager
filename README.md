@@ -1,5 +1,5 @@
 # 프로젝트 포트폴리오 관리 시스템 (개발 진행중)
-![Hotdeal Gallery Logo](./Portfolio_manager.png)
+![Portfolio Manager](./Portfolio_manager.png)
 
 ## 📋 프로젝트 개요
 
